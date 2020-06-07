@@ -1,0 +1,168 @@
+html.sr .load-hidden {
+    visibility: hidden;
+}
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.title-death {
+    font-family: 'Open Sans', sans-serif;
+    color: #96ff00;
+    font-size: 142pt;
+    margin-top: -500px;
+}
+
+.title-road {
+    font-family: 'Open Sans', sans-serif;
+    color: #96ff00;
+    font-size: 200pt;
+    color: #96ff00;
+    margin-top: -120px;
+
+}
+
+.title-main {
+    padding-left: 40px;
+}
+
+.places {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    position: absolute;
+}
+
+.title-la-paz {
+    top: 120px;
+    left: 100px;
+    position: relative;
+}
+
+.title-la-cumbre {
+    top: 180px;
+    left: 540px;
+    position: relative;
+}
+
+.title-unduavi {
+    top: 520px;
+    left: 800px;
+    position: absolute;
+}
+
+.title-chuspipata {
+    top: 900px;
+    left: 850px;
+    position: absolute;
+}
+
+.title-san-juan {
+    top: 980px;
+    left: 1180px;
+    position: absolute;
+}
+
+.title-red-montain {
+    top: 840px;
+    left: 1410px;
+    position: relative;
+}
+
+h2 {
+    color: aliceblue;
+}
+
+body {
+    margin: 0px;
+    background-color: black;
+}
+
+img {
+    width: 100%;
+    position: relative;
+}
+
+.map {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.img-principal {
+    padding: 0px;
+    margin-top: 0px;
+}
+
+.main {
+    background-image: url("../img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cls-1 {
+    fill: #cbff88;
+    stroke: #cbff88;
+    stroke-miterlimit: 10;
+    stroke-width: 3px;
+}
+
+.cls-2 {
+    fill: #daeab9;
+}
+
+.cls-3 {
+    fill: #96ff00;
+}
+
+.la-cumbre-title-section {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 177px;
+    letter-spacing: 5px;
+    padding-top: 190px;
+    padding-left: 180px;
+    padding-bottom: 70px;
+}
+
+#la-cumbre {
+    background-image: url("../img/cumbre foto.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-size: inherit;*/
+
+}
+
+#chuspipata {
+    background-image: url("../img/chuspipata-img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.svg-div {
+    /*margin-bottom: 40px;*/
+    border: 3px black;
+
+}
+
+.img-cumbre {
+    /*top: 20px;*/
+    /*left: 40px;*/
+}
+
+#san-juan {
+    background-image: url("../img/san-juan.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-position: left;*/
+    /*height: 100%;*/
+}
+
+#montania-roja {
+    background-image: url("../img/red-img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+svg {
+    margin-bottom: -4px;
+}
